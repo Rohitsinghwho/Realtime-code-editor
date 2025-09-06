@@ -1,13 +1,9 @@
-# leetcode-clone
+# Real-time-code-editor
 
-In this project i have tried to implement some of the features of leetcode and tried to add a little of my touch in the awesome leetcode.
+This is a real-time code editor in which you can edit or do your coding problems with your friends and others in real-time all you need to do is just press a button.
 
 
 ## Basic Functionality of the application at the moment
 
-- User should be able to login and logout
-- User should be able to view his/her submissions
-- User should be able to code a problem
-- User should be able to add a note for a problem
-- User should be able view recently solved problems
-- User should be able to see the time taken to solve the problem
+- User should be able to collaborate on the editor.
+- There should be no conflicts between the editors of different clients.
