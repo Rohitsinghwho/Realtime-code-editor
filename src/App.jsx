@@ -1,8 +1,11 @@
 import React from 'react'
+import CodingPlatform from './Pages/CodingPlatform'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <CodingPlatform/>
+    </div>
   )
 }
 
